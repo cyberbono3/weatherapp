@@ -1,11 +1,13 @@
 # Weather app
 
 
-##Overview
+## Overview
 The simple app allows to utilize openweathermap API to send AJAX request to fetch the temperature, pressure and humidity in major US cities.
 
 ## Stack:
 React JS + Redux state container + Middleware(Axios)
+
+
 
 ## Workflow
    1. User submits the city name.
