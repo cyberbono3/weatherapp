@@ -20,8 +20,8 @@ React JS + Redux state container + Middleware(Axios)
 
 ## Build setup
 
-> npm install
-> npm start
+* npm install
+* npm start
 
 
  This application has been initially developed by Stephen Grider
