@@ -1,7 +1,7 @@
 # Weather app
 
 
-##Overview
+## Overview
 The simple app allows to utilize openweathermap API to send AJAX request to fetch a temperature, pressure and humidity for major US cities.
 
 ## Stack:
