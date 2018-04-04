@@ -1,8 +1,8 @@
 # Weather app
 
 
-## Overview
-The simple app allows to utilize openweathermap API to send AJAX request to fetch a temperature, pressure and humidity for major US cities.
+##Overview
+The simple app allows to utilize openweathermap API to send AJAX request to fetch the temperature, pressure and humidity in major US cities.
 
 ## Stack:
 React JS + Redux state container + Middleware(Axios)
@@ -22,4 +22,5 @@ React JS + Redux state container + Middleware(Axios)
 > npm start
 
 
- This application has been initially implemented by Stephen Grider
+ This application has been initially developed by Stephen Grider
+
